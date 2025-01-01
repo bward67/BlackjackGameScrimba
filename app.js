@@ -176,5 +176,5 @@ function getRandomCard() {
 }
 
 //? THINGS STILL TO DO:
-
+//! set up a function for numbers with commas so we get 1,000 instead of 1000
 //! set up local Storage for accountBalance
