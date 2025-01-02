@@ -6,12 +6,15 @@
   box-sizing: border-box;
 }
 
+body {
+  background-color: #1e4a4f;
+}
 main {
   display: grid;
   place-items: center;
   min-height: 100vh;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
-  background-color: #1e4a4f;
+  /* background-color: #1e4a4f; */
   color: #ffffff;
 }
 p {
